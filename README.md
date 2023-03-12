@@ -4,4 +4,6 @@ something lalalalalala
 
 change in browser
 
-      new branch                                                                                                                                  
+      new branch     
+    
+conflict_1
