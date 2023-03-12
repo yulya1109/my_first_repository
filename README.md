@@ -6,4 +6,4 @@ change in browser
 
       new branch     
     
-conflict_1
+conflict_1 in browser
